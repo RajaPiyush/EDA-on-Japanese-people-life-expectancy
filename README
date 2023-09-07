@@ -1,0 +1,20 @@
+This is an EDA project on the Data set related to the Life expectancy of Japanese people in different Prefecture in Japan.
+
+Here Concepts like Feature Engineering, Visualization, Correlations choropleth maps have been used.
+
+Aim was to find out the relation of different attributes which affected Life expectancy.
+
+Following are the attributes which are present in the data set
+
+Prefecture', 'Life_expectancy', 'Physician', 'Junior_col',
+'University', 'Public_Hosp', 'Pshic_hosp', 'Beds_psic', 'Nurses',
+'Avg_hours', 'Salary', 'Elementary_school', 'Sport_fac', 'Park',
+'Forest', 'Income_per capita', 'Density_pop', 'Hospitals', 'Beds',
+'Ambulances', 'Health_exp', 'Educ_exp', 'Welfare_exp'],
+dtype='object'
+
+Data set link 
+
+https://www.kaggle.com/datasets/gianinamariapetrascu/japan-life-expectancy
+
+Please refer the code.ipynb for futher information
